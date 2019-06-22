@@ -8,10 +8,6 @@ In this exercise we propose two solutions:
 2- A convolutional network with transfer learning. (You Only Look Once)
 We obtained better results with the convolutional network. 
 
------------------------------------
-Authors:
-1- Pedro Vidal González
-2- Sergio Valdes Rabelo
-3- Oraldo Jacinto Simon 
-4- Martin Mauricio Alarcon Barraza
------------------------------------
+-----------------------------------------------------------------------------------------------------------
+Authors: Pedro Vidal González, Sergio Valdes Rabelo, Oraldo Jacinto Simon, Martin Mauricio Alarcon Barraza
+-----------------------------------------------------------------------------------------------------------
